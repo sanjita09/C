@@ -1,0 +1,5 @@
+anger	enrage
+ask	question
+bad	evil
+large	brave
+	
